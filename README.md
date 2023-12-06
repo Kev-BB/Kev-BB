@@ -1,3 +1,7 @@
+<p align="left">Hello World! I'm Kevin a passionate Junior Front-End Developer</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kev-BB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kev-BB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -24,16 +28,16 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/kevin-birkan-beyer-778704144" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-birkan-beyer-778704144" target="_blank"  style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="codepen.io/Kev-BB" target="_blank">
+  <a href="codepen.io/Kev-BB" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-  <a href="codesandbox.io/u/Kev-BB" target="_blank">
+  <a href="codesandbox.io/u/Kev-BB" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
   </a>
-  <a href="https://medium.com/@Kev-BB" target="_blank">
+  <a href="https://medium.com/@Kev-BB" target="_blank" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
