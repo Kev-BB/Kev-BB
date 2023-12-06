@@ -28,17 +28,17 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kevin-birkan-beyer-778704144" target="_blank"  style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kevin-birkan-beyer-778704144" target="_blank"  style="text-decoration: none">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="text-decoration: none" />
   </a>
-  <a href="codepen.io/Kev-BB" target="_blank" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <a href="https://www.codepen.io/Kev-BB" target="_blank" style="text-decoration:none">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo" style="text-decoration: none" />
   </a>
-  <a href="codesandbox.io/u/Kev-BB" target="_blank" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
+  <a href="https://www.codesandbox.io/u/Kev-BB" target="_blank" style="text-decoration:none">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo" style="text-decoration: none" />
   </a>
   <a href="https://medium.com/@Kev-BB" target="_blank" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" style="text-decoration: none" />
   </a>
 </div>
 
