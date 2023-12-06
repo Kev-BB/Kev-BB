@@ -1,4 +1,4 @@
-<p align="left">Hello World! I'm Kevin a passionate Junior Front-End Developer</p>
+<p align="left">Hello World! I'm Kevin a passionate Junior Front-End Developer 👨‍💻</p>
 
 ###
 
